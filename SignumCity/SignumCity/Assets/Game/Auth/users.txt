@@ -1,0 +1,3 @@
+"password":"passworD1","email":"testnau1k2@mail.ru"
+"password":"passworD1","email":"testnau1k3@mail.ru"
+"password":"passworD1","phone":"380333445231"

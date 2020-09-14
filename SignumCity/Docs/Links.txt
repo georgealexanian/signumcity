@@ -1,0 +1,22 @@
+https://www.youtube.com/watch?v=bi2tG3v4a9c
+UI
+
+https://habr.com/ru/post/325900/
+Unity3d / Android: проверка пользователя на собственном сервере Node.JS
+
+https://stackoverflow.com/questions/44754177/how-can-i-verify-android-apps-gpgs-token-on-my-node-js-server-using-passport]How can I verify android app's GPGS token on my node.js server using passport
+How can I verify android app's GPGS token on my node.js server using passport
+
+https://app.hacknplan.com/p/92247/kanban?categoryId=0&boardId=231495
+hacknplan
+
+https://answers.unity.com/questions/1307198/how-to-use-jwt-in-unity.html
+jwt unity
+
+https://stackoverflow.com/questions/46412872/jwt-authentication-from-unity-script
+jwt unity example script
+
+https://developers.facebook.com/docs/unity/getting-started/android
+facebook sdk // alexeykhomenko222@gmail.com указал для связи
+https://developers.facebook.com/docs/apps/review
+facebook верификация
